@@ -3,7 +3,7 @@ public class Main {
         String text = "Hello, Java!";
         char letter = 'A';
         short smallNumber = 1500;
-        int integerNumber = 100000;
+        int integerNumber = 100000; 
         long largeNumber = 10000000000L;
         float decimalNumber = 3.14f;
         double preciseNumber = 3.14159265359;
